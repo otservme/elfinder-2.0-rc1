@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/otpanel/!svn/ver/79/release/elfinder-2.0-rc1/php
+END
+elFinder.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/otpanel/!svn/ver/78/release/elfinder-2.0-rc1/php/elFinder.class.php
+END
+elFinderVolumeDriver.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/otpanel/!svn/ver/78/release/elfinder-2.0-rc1/php/elFinderVolumeDriver.class.php
+END
+MySQLStorage.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/otpanel/!svn/ver/56/release/elfinder-2.0-rc1/php/MySQLStorage.sql
+END
+elFinderVolumeLocalFileSystem.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/otpanel/!svn/ver/78/release/elfinder-2.0-rc1/php/elFinderVolumeLocalFileSystem.class.php
+END
+mime.types
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/otpanel/!svn/ver/56/release/elfinder-2.0-rc1/php/mime.types
+END
+elFinderConnector.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/otpanel/!svn/ver/78/release/elfinder-2.0-rc1/php/elFinderConnector.class.php
+END
+connector.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/otpanel/!svn/ver/79/release/elfinder-2.0-rc1/php/connector.php
+END
+elFinderVolumeMySQL.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/otpanel/!svn/ver/78/release/elfinder-2.0-rc1/php/elFinderVolumeMySQL.class.php
+END
